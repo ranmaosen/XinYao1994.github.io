@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "babyJoker的个人博客"
+title: "babyJoker  的个人博客"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
@@ -16,7 +16,7 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  XinYao1994
+github_username:  babyJoker
 email: u3004330@connect.hku.hk
 weibo_username: 
 zhihu_username: 
