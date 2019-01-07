@@ -4,7 +4,8 @@ title:      Open Github Pages for blogs
 subtitle:   Others
 date:       2018-09-24
 author:     baby joker
-catalog: true
+catalog: 
+    sssssssss- true
 tags:
     - git
     - Markdown
