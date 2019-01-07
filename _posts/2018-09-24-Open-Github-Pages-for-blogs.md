@@ -5,7 +5,7 @@ subtitle:   Others
 date:       2018-09-24
 author:     baby joker
 catalog: 
-    sssssssss- true
+    - true
 tags:
     - git
     - Markdown
