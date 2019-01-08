@@ -32,12 +32,12 @@ description_footer: babyJoker！
 # disqus_shortname: #gaohaoyang
 # using Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 67bc7b45378f16736a5e                            #生成的clientID
-  clientSecret: 511d6a553af7d0fffc6cadc9ce3e50d6898ff27b    #生成的clientSecret
-  repo: ranmaosen.github.io    #仓库名称
-  owner: ranmaosen    #github用户名
-  admin: ranmaosen
+  enable:true    #是否开启Gitalk评论
+  clientID:67bc7b45378f16736a5e                            #生成的clientID
+  clientSecret:511d6a553af7d0fffc6cadc9ce3e50d6898ff27b    #生成的clientSecret
+  repo:ranmaosen.github.io    #仓库名称
+  owner:ranmaosen    #github用户名
+  admin:ranmaosen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
