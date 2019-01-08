@@ -33,11 +33,11 @@ description_footer: babyJoker！
 # using Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 52bbb620d9680fd85254                            #生成的clientID
-  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
-  owner: XinYao1994    #github用户名
-  admin: XinYao1994
+  clientID: 67bc7b45378f16736a5e                            #生成的clientID
+  clientSecret: 511d6a553af7d0fffc6cadc9ce3e50d6898ff27b    #生成的clientSecret
+  repo: ranmaosen.github.io    #仓库名称
+  owner: ranmaosen    #github用户名
+  admin: ranmaosen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
