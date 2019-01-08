@@ -38,6 +38,7 @@ gitalk:
   repo: ranmaosen.github.io    #仓库名称
   owner: ranmaosen    #github用户名
   admin: ranmaosen
+  id: 'window.location.pathname'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
