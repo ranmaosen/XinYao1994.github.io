@@ -63,7 +63,7 @@ tags:	SpringBoot
 ```
 ### spring-boot-starters
 spring-boot场景启动器；spring-boot-starter-web帮我们导入了web模块正常运行所依赖的组件；  
-Spring Boot将所有的功能场景都抽取出来，做成一个个的starters（启动器），只需要在项目里面引入这些starter相关场景的所有依赖都会导入进来。要用什么功能就导入什么场景的启动器
+Spring Boot将所有的功能场景都抽取出来，做成一个个的starters（启动器），按照场景需要引入响应的starters即可
 
 ### SpringBoot主程序类，主入口类
 
@@ -98,17 +98,17 @@ public @interface SpringBootApplication {
 ```
 @**SpringBootConfiguration**:Spring Boot的配置类；
 
-​		标注在某个类上，表示这是一个Spring Boot的配置类；
+  标注在某个类上，表示这是一个Spring Boot的配置类；
 
 ​		@**Configuration**:配置类上来标注这个注解；
 
-​			配置类 -----  配置文件；配置类也是容器中的一个组件；@Component
+  配置类 -----  配置文件；配置类也是容器中的一个组件；@Component
 
 
 
 @**EnableAutoConfiguration**：开启自动配置功能；
 
-​		以前我们需要配置的东西，Spring Boot帮我们自动配置；@**EnableAutoConfiguration**告诉SpringBoot开启自动配置功能；这样自动配置才能生效；
+  以前我们需要配置的东西，Spring Boot帮我们自动配置；@**EnableAutoConfiguration**告诉SpringBoot开启自动配置功能；这样自动配置才能生效；
 
 ```java
 @AutoConfigurationPackage
@@ -116,7 +116,7 @@ public @interface SpringBootApplication {
 public @interface EnableAutoConfiguration {
 ```
    @**AutoConfigurationPackage**：自动配置包
-​   @**Import**(AutoConfigurationPackages.Registrar.class)：
+   @**Import**(AutoConfigurationPackages.Registrar.class)：
 Spring的底层注解@Import，给容器中导入一个组件；导入的组件由AutoConfigurationPackages.Registrar.class；
 
 ==将主配置类（@SpringBootApplication标注的类）的所在包及下面所有子包里面的所有组件扫描到Spring容器；==
