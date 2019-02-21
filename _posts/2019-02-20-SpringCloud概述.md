@@ -89,7 +89,7 @@ tags:	SpringCloud
 　　SpringBoot可以不使用SpringCloud独立开发项目，但SpringCloud离不开SpringBoot的支持
 ## SpringCloud与Dubbo对比 
 　　
-|      null    | Dubbo         | SpringCloud         |
+| null         | Dubbo         | SpringCloud         |
 | ------------ | ------------- | ------------------- |
 | 服务注册中心 | ZooKeeper     | Eureka              |
 | 服务调用方式 | RPC           | REST API            |
@@ -101,6 +101,7 @@ tags:	SpringCloud
 | 消息总线     | 无            | Spring Cloud Bus    |
 | 数据流       | 无            | Spring Cloud Stream |
 | 批量任务     | 无            | Spring Cloud Task   |
+ 
  
 　　**最大的区别**：SpringCloud抛弃了Dubbo的RPC通信，采用的是基于HTTP的REST方式  
 　　严格的来说，这两种方式各有优劣。虽然从一定程度上来说，SpringCloud牺牲了服务调用的性能，但也能避免原生RPC带来的问题。而且Rest相比RPC更加灵活，服务提供方和调用方依赖的只依靠“一纸契约”，不存在代码级别的强依赖，在快速演化的微服务环境下更加合适
