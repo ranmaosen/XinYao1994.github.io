@@ -116,6 +116,6 @@ tags:	SpringCloud
 ## SpringCloud 常用网址
 
 [http://springcloud.cn/](http://springcloud.cn/ "SpringCloud中国社区")  
-[http://springcloud.cc/](http://springcloud.cc/ "SpringCloud中文网") \ 
+[http://springcloud.cc/](http://springcloud.cc/ "SpringCloud中文网") 
 
 ## to be continued  -> (18/51)
