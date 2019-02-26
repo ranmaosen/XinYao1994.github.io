@@ -111,5 +111,11 @@ tags:	SpringCloud
 　　SpringCloud的功能更加强大，组件更多，涵盖面更广，能够与Spring Framework、Spring Boot、Spring Data、Spring Batch等其他Spring项目完美融合  
 　　使用Dubbo各个环节选择自由度很高，需要自己进行整合与兼容性测试才能保证稳定  
 　　**社区活跃度对比**：Dubbo停止了5年左右的更新，虽于2017.07重启，对于技术发展的新需求，需要由开发者自行拓展升级，对于很多想要采用微服务架构的中小软件公司/组织并不太划算（没有强大的技术修改Dubbo源码、整合周边形成一整套结局方案、线上未知的风险性）  SpringCloud活动更频繁   
-　　**定位区别：**Dubbo的定位是一款RPC框架，而SpringCloud是微服务架构下的一站式解决方案
-## to be continued  -> (12/51)
+　　**定位区别：**Dubbo的定位是一款RPC框架，而SpringCloud是微服务架构下的一站式解决方案  
+
+## SpringCloud 常用网址
+
+[http://springcloud.cn/](http://springcloud.cn/ "SpringCloud中国社区")  
+[http://springcloud.cc/](http://springcloud.cc/ "SpringCloud中文网") \ 
+
+## to be continued  -> (18/51)
