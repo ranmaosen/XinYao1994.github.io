@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SpringyCloud 依赖version	2018
+title:      SpringCloud 依赖version	2018
 subtitle:   History Blogs @ 2019/11/15
 date:       2019-11-15
 author:     baby joker
