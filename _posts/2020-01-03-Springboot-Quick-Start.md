@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Springboot Quick Start
+title:      Springcloud Eureka Quick Start
 subtitle:   History Blogs @ 2020/01/03
 date:       2020-01-03
 author:     baby joker
