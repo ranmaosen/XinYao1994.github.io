@@ -4,8 +4,8 @@ title:      Springcloud Eureka Quick Start
 subtitle:   History Blogs @ 2020/01/03
 date:       2020-01-03
 author:     baby joker
-categories:	Springcloud
-tags:	Springboot Springcloud Java高级面试
+categories:	SpringCloud
+tags:	SpringBoot SpringCloud Java高级面试
 ---
 　　Springcloud Eureka Quick Start
 
