@@ -4,7 +4,7 @@ title:      Session Token相关区别
 subtitle:   History Blogs @ 2019/11/21
 date:       2019-11-21
 author:     baby joker
-categories:	Java
+categories:	Java高级面试
 tags:	Session Token
 ---
 　　为什么要有session的出现、session的生成方式、session的弊端
